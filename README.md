@@ -1,5 +1,5 @@
 # 💫 About Me:
-Heyy myself Aditya Chaurasia a second-year <br>B.Tech Computer Science student passionate about <br>software engineering and building meaningful digital <br>experiences. My primary focus is on Data Structures & <br>Algorithms and Full-Stack Development, where I continuously<br>improve my problem-solving skills while creating scalable<br>and efficient web-applications. I enjoy writing clean,<br>maintainable code, exploring modern technologies,<br>and taking on challenging projects that help me <br>grow as a developer.
+Heyy myself Aditya Chaurasia a second-year B.Tech Computer Science student passionate about software engineering and building meaningful digital experiences. My primary focus is on Data Structures & Algorithms and Full-Stack Development, where I continuously improve my problem-solving skills while creating scalable and efficient web-applications. I enjoy writing clean, maintainable code, exploring modern technologies,<br>and taking on challenging projects that help me grow as a developer.
 
 
 ## 🌐 Socials:
